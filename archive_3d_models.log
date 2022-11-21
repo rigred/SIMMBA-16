@@ -1,0 +1,74 @@
+11-22 00:56:22 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 210:Plugin executed on: 'linux'
+11-22 00:56:22 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 211:Plugin executed with python version: '3.10.8 (main, Nov  1 2022, 14:18:21) [GCC 12.2.0]'
+11-22 00:56:22 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 212:KiCad build version: (6.0.9)
+11-22 00:56:22 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 213:Plugin version: 1.0.3
+
+11-22 00:56:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 13:Starting to archive 3D models
+11-22 00:56:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 34:Getting 3D models for footprint of: U1
+11-22 00:56:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Trying to copy: ${KISYS3DMOD}/Package_SO.3dshapes/SOIC-28W_7.5x18.7mm_P1.27mm.wrl
+11-22 00:56:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Package_SO.3dshapes/SOIC-28W_7.5x18.7mm_P1.27mm.wrl
+11-22 00:56:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Did not copy: ${KISYS3DMOD}/Package_SO.3dshapes/SOIC-28W_7.5x18.7mm_P1.27mm.wrl
+11-22 00:56:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 105:Remapping: ${KISYS3DMOD}/Package_SO.3dshapes/SOIC-28W_7.5x18.7mm_P1.27mm.wrl
+11-22 00:56:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Trying to copy: ${KIPRJMOD}/packages3D/SOIC-28W_7.5x18.7mm_P1.27mm.wrl
+11-22 00:56:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Did not copy: ${KIPRJMOD}/packages3D/SOIC-28W_7.5x18.7mm_P1.27mm.wrl
+11-22 00:56:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 105:Remapping: ${KIPRJMOD}/packages3D/SOIC-28W_7.5x18.7mm_P1.27mm.wrl
+11-22 00:56:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Trying to copy: ${KIPRJMOD}/packages3D/SOIC-28W_7.5x18.7mm_P1.27mm.wrl
+11-22 00:56:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Did not copy: ${KIPRJMOD}/packages3D/SOIC-28W_7.5x18.7mm_P1.27mm.wrl
+11-22 00:56:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 105:Remapping: ${KIPRJMOD}/packages3D/SOIC-28W_7.5x18.7mm_P1.27mm.wrl
+11-22 00:56:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Trying to copy: ${KIPRJMOD}/packages3D/SOIC-28W_7.5x18.7mm_P1.27mm.wrl
+11-22 00:56:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Did not copy: ${KIPRJMOD}/packages3D/SOIC-28W_7.5x18.7mm_P1.27mm.wrl
+11-22 00:56:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 105:Remapping: ${KIPRJMOD}/packages3D/SOIC-28W_7.5x18.7mm_P1.27mm.wrl
+11-22 00:56:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 34:Getting 3D models for footprint of: R2
+11-22 00:56:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Trying to copy: ${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0805_2012Metric.wrl
+11-22 00:56:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 105:Remapping: ${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0805_2012Metric.wrl
+11-22 00:56:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 34:Getting 3D models for footprint of: J1
+11-22 00:56:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 34:Getting 3D models for footprint of: C4
+11-22 00:56:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Trying to copy: ${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.wrl
+11-22 00:56:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 105:Remapping: ${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.wrl
+11-22 00:56:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 34:Getting 3D models for footprint of: C1
+11-22 00:56:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Trying to copy: ${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.wrl
+11-22 00:56:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 105:Remapping: ${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.wrl
+11-22 00:56:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 34:Getting 3D models for footprint of: G***
+11-22 00:56:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 34:Getting 3D models for footprint of: C3
+11-22 00:56:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Trying to copy: ${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.wrl
+11-22 00:56:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 105:Remapping: ${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.wrl
+11-22 00:56:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 34:Getting 3D models for footprint of: R1
+11-22 00:56:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Trying to copy: ${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0805_2012Metric.wrl
+11-22 00:56:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 105:Remapping: ${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0805_2012Metric.wrl
+11-22 00:56:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 34:Getting 3D models for footprint of: C2
+11-22 00:56:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Trying to copy: ${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.wrl
+11-22 00:56:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 105:Remapping: ${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.wrl
+11-22 00:56:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 34:Getting 3D models for footprint of: U2
+11-22 00:56:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Trying to copy: ${KISYS3DMOD}/Package_SO.3dshapes/SOIC-28W_7.5x18.7mm_P1.27mm.wrl
+11-22 00:56:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Package_SO.3dshapes/SOIC-28W_7.5x18.7mm_P1.27mm.wrl
+11-22 00:56:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Did not copy: ${KISYS3DMOD}/Package_SO.3dshapes/SOIC-28W_7.5x18.7mm_P1.27mm.wrl
+11-22 00:56:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 105:Remapping: ${KISYS3DMOD}/Package_SO.3dshapes/SOIC-28W_7.5x18.7mm_P1.27mm.wrl
+11-22 00:56:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Trying to copy: ${KIPRJMOD}/packages3D/SOIC-28W_7.5x18.7mm_P1.27mm.wrl
+11-22 00:56:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Did not copy: ${KIPRJMOD}/packages3D/SOIC-28W_7.5x18.7mm_P1.27mm.wrl
+11-22 00:56:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 105:Remapping: ${KIPRJMOD}/packages3D/SOIC-28W_7.5x18.7mm_P1.27mm.wrl
+11-22 00:56:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Trying to copy: ${KIPRJMOD}/packages3D/SOIC-28W_7.5x18.7mm_P1.27mm.wrl
+11-22 00:56:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Did not copy: ${KIPRJMOD}/packages3D/SOIC-28W_7.5x18.7mm_P1.27mm.wrl
+11-22 00:56:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 105:Remapping: ${KIPRJMOD}/packages3D/SOIC-28W_7.5x18.7mm_P1.27mm.wrl
+11-22 00:56:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Trying to copy: ${KIPRJMOD}/packages3D/SOIC-28W_7.5x18.7mm_P1.27mm.wrl
+11-22 00:56:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Did not copy: ${KIPRJMOD}/packages3D/SOIC-28W_7.5x18.7mm_P1.27mm.wrl
+11-22 00:56:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 105:Remapping: ${KIPRJMOD}/packages3D/SOIC-28W_7.5x18.7mm_P1.27mm.wrl
+11-22 00:56:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 34:Getting 3D models for footprint of: C5
+11-22 00:56:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Trying to copy: ${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.wrl
+11-22 00:56:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 105:Remapping: ${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.wrl
+11-22 00:56:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 34:Getting 3D models for footprint of: C6
+11-22 00:56:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Trying to copy: ${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.wrl
+11-22 00:56:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 105:Remapping: ${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.wrl
+11-22 00:56:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 34:Getting 3D models for footprint of: U3
+11-22 00:56:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Trying to copy: ${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-223.wrl
+11-22 00:56:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 105:Remapping: ${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-223.wrl
+11-22 00:56:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 116:Did not succeed to copy 3D models!
+('U1', '${KISYS3DMOD}/Package_SO.3dshapes/SOIC-28W_7.5x18.7mm_P1.27mm.wrl')
+('U1', '${KIPRJMOD}/packages3D/SOIC-28W_7.5x18.7mm_P1.27mm.wrl')
+('U1', '${KIPRJMOD}/packages3D/SOIC-28W_7.5x18.7mm_P1.27mm.wrl')
+('U1', '${KIPRJMOD}/packages3D/SOIC-28W_7.5x18.7mm_P1.27mm.wrl')
+('U2', '${KISYS3DMOD}/Package_SO.3dshapes/SOIC-28W_7.5x18.7mm_P1.27mm.wrl')
+('U2', '${KIPRJMOD}/packages3D/SOIC-28W_7.5x18.7mm_P1.27mm.wrl')
+('U2', '${KIPRJMOD}/packages3D/SOIC-28W_7.5x18.7mm_P1.27mm.wrl')
+('U2', '${KIPRJMOD}/packages3D/SOIC-28W_7.5x18.7mm_P1.27mm.wrl')
