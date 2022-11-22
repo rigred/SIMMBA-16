@@ -42,7 +42,7 @@ Of these the Micron chips are by far the most common and robust. All others have
 
 ## Bill of Materials
 
-[BOM](bom/ibom.html)
+[HTML BOM](https://htmlpreview.github.io/?https://raw.githubusercontent.com/rigred/SIMMBA-16/main/bom/ibom.html)
 
 ## RAM Salvaging
 If you are not using new-old-stock chips and are instead salvaging compatible chips form DRAM Modules then I recommend you take the utmost care in desoldering such.
