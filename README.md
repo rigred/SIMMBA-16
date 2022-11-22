@@ -24,9 +24,13 @@ This board was designed to be as low cost and simple as possible and supports fl
 ## Supported RAM chips
 
 3.3V chips may be relatively easily found from cheaply available 256MB EDO DIMM's.
+
 These are by far the preferred choice in comparison to the now rarer 5V chips.
+
 I have tested and validated some of the below chips and found them to be 5V IO tolerant in use despite manufacturer data sheets not directly ascribing such.
+
 Of these the Micron chips are by far the most common and robust. All others have been data sheet checked to be electrically compatible.
+
 ## (3.3V)
  * MT4LC16M4H9 (Preferred, Tested & Validated)
  * GM71V65403C (Tested)
@@ -51,9 +55,9 @@ If you are not using new-old-stock chips and are instead salvaging compatible ch
 * I bear absolutely no responsibility for any of this should it go horribly wrong.
 
 ## Voltage selection
-When 3.3V chips are used it is required to install a suitable 3.3V LDO regulator such as the common AMS1117-3.3 as well as the 10uF Capacitor
-When 5V chips are used you must bridge the indicated pads with a 0-Ohm resistor or suitable piece of metal and install the 22uF Capacitor
-_DO NOT_ install the 3.3V Regulator when using 5V chips and bridging the indicated pads.
+* When 3.3V chips are used it is required to install a suitable 3.3V LDO regulator such as the common AMS1117-3.3 as well as the 10uF Capacitor
+* When 5V chips are used you must bridge the indicated pads with a 0-Ohm resistor or suitable piece of metal and install the 22uF Capacitor
+* _DO NOT_ install the 3.3V Regulator when using 5V chips and bridging the indicated pads.
 
 ## EDO / FPM selection
 For the most part only the FPM bridge should be populated. In this mode the CAS signal is tied to the Output Enable signal pin of the chips.
@@ -72,7 +76,7 @@ If you wish to use these as SIPP modules, in case say your SIMM sockets are brok
 # Troubleshooting
 
 1) If you are using the 3.3V regulator design and are experiencing voltage instability it may be necessary to adjust the capacitance of the 5V input and 3.3V output filter capacitors.
- * In this design, less can often be better.
+  * In this design, less can often be better.
 
 2) After assembly it is recommended to first power test and check your handiwork in expectation of failure. Feel for any hot parts on the DRAM
 
