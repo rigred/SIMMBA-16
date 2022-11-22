@@ -1,7 +1,7 @@
 # SIMMBA-16.P
 Open-source 30 pin 16MB SIMM memory module
 
-![SIMMBA-16.P](/Images/16MB SIPPM 30 A2 front.jpg)
+![SIMMBA-16.P](Images/16MB SIPPM 30 A2 front.jpg)
 
 ## Status Updates
 * 2022-06-12
@@ -60,7 +60,7 @@ In rare cases you may want to configure this module as EDO mode, such as in use 
 ## SIPP mode
 If you wish to use these as SIPP modules, in case say your SIMM sockets are broken, or you've found some very obscure motherboard that both supports SIPP memory and this size of module. Then you can simply solder a right angle 100mil/2.54mm header to the holes along the edge. 
 
-![SIMMBA-16.P SIPP](/Images/SIPP Module.jpg)
+![SIMMBA-16.P SIPP](Images/SIPP Module.jpg)
 
 # Soldering 
 * For repeatable good results when soldering the ram chips in place it is recommended to use a stencil and soldering paste and soldering the whole board in one pass on a hot plate.
@@ -80,8 +80,8 @@ If you wish to use these as SIPP modules, in case say your SIMM sockets are brok
 # Revision A1 testing
 
 The A1 revision SIMMBA module assembled
-![SIMMBA-A1 Assembled](/Images/SIMMBA-A1 Assembly.webp)
+![SIMMBA-A1 Assembled](Images/SIMMBA-A1 Assembly.webp)
 
 64MB of SIMMBA A1 revision under test
-![SIMMBA-A1 Testing](/Images/SIMMBA-A1 Testing.webp)
+![SIMMBA-A1 Testing](Images/SIMMBA-A1 Testing.webp)
 
