@@ -4,11 +4,11 @@
     (thickness 1.6)
   )
 
-  (paper "A5")
+  (paper "A4")
   (title_block
-    (title "SIMMBA-16 (16MB EDO/FPM RAM)")
-    (date "2022-04-19")
-    (rev "1A")
+    (title "SIMMBA-16.P (16MB EDO/FPM RAM)")
+    (date "2022-11-22")
+    (rev "A2")
     (company "0xCats")
   )
 
