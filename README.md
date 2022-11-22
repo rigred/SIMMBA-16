@@ -5,11 +5,10 @@ Open-source 30 pins 16MB SIMM memory module
 
 ## Status Updates
 * 2022-06-12
- * Version 1A assembled and tested
- https://twitter.com/0xCats/status/1524708654913662977
- * Many months of happily using rev A1 board
+* Version 1A assembled and tested [link](https://twitter.com/0xCats/status/1524708654913662977)
+  * Many months of happily using rev A1 board
 * 2022-11-22
- * Version 2A released to the public
+  * Version 2A released to the public
 
 # Just gimme the Gerbers!
 [gerber.zip](https://raw.githubusercontent.com/rigred/SIMMBA-16/main/production/gerber.zip)
