@@ -13,6 +13,10 @@ Open-source 30 pins 16MB SIMM memory module
 # Just gimme the Gerbers!
 [gerber.zip](https://raw.githubusercontent.com/rigred/SIMMBA-16/main/production/gerber.zip)
 
+# Ordering specifics:
+ * 1.2mm Thickness
+ * HASL or ENIG (any finish is fine)
+
 # Why?
 Because I have a 486 motherboard that I'm quite fond of that featured a mix of 2x72pin and 4x30pin SIMM sockets.
 I wanted to use both at maximum capacity. Also 30 pin SIMM memory prices are not great.
