@@ -358,7 +358,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "16MB SIPPM 30-rounded-A2.kicad_pro",
+    "filename": "16MB SIPPM 30 rev B1.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -391,7 +391,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "specctra_dsn": "",
+      "specctra_dsn": "freerouting.dsn",
       "step": "",
       "vrml": ""
     },
