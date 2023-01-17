@@ -9,6 +9,8 @@ Open-source 30 pins 16MB SIMM memory module
 * Many months of happily using rev A1 board
 * 2022-11-22
   * Version 2A released to the public
+* 2023-01-17
+  * Added Filthy WIP autorouted Rev. B1 (16MB with Parity) and A11 pullup
 
 # Just gimme the Gerbers!
 [gerber.zip](https://raw.githubusercontent.com/rigred/SIMMBA-16/main/production/gerber.zip)
